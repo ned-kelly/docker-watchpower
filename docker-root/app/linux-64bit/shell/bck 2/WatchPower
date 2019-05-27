@@ -1,0 +1,11 @@
+#!/bin/sh
+#get current dir
+userdir=$(cd "$(dirname "$0")"; pwd)
+#access jre
+chmod -R 774 $userdir/jre
+#export PATH=.:$userdir/jre/bin
+#class path that WatchPower is depended on
+export CLASSPATH=.:$userdir/lib/commons-lang.jar:$userdir/lib/commons-logging.jar:$userdir/lib/derby.jar:$userdir/lib/dom4j-1.6.1.jar:$userdir/lib/iText-5.0.6.jar:$userdir/lib/iTextAsian.jar:$userdir/lib/jaxen-full.jar:$userdir/lib/jcommon-1.0.0-rc1.jar:$userdir/lib/jfreechart-1.0.0-rc1.jar:$userdir/lib/jpcap.jar:$userdir/lib/JTattoo.jar:$userdir/lib/jxl.jar:$userdir/lib/log4j-1.2.14.jar:$userdir/lib/mail.jar:$userdir/lib/RXTXcomm.jar:$userdir/lib/saxpath.jar:$userdir/lib/snmp4j-1.11.jar:$userdir/lib/SoftewareUpgrade.jar:$userdir/lib/spring-beans.jar:$userdir/lib/spring-core.jar:$userdir/lib/volModbus.jar:$userdir/lib/volUtil.jar:$userdir/lib/WatchPower.jar:
+#Launch WhatchPower
+cd $userdir
+jre/bin/WatchPower cn.com.voltronic.solar.console.linux.LinuxWatchPower &

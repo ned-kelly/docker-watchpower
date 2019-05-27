@@ -1,0 +1,5 @@
+#!/bin/sh
+userdir=$(cd "$(dirname "$0")"; pwd)
+chmod -R 774 $userdir/jre
+chmod 774 $userdir/WatchPower
+

@@ -1,0 +1,35 @@
+version: '2'
+
+services:
+  watchpower:
+
+    build: .
+    container_name: watchpower
+
+    privileged: true
+    restart: always
+
+    volumes:
+      - ./config:/home/user
+
+    ports:
+      - 9981:9000
+
+    environment:
+      # Default resolution of x11 session
+      - VNC_GEOMETRY=1600x1200
+
+      # Change to something secure if you are publishing this on the web...
+      - VNC_PASSWD=watchpower
+
+    devices:
+      - "/dev/mem:/dev/mem"
+
+    # USB Port Mapping
+      - /dev/bus/usb:/dev/bus/usb:rwm
+      - /dev/ttyUSB0:/dev/ttyUSB0:rwm
+      - /dev/ttyUSB1:/dev/ttyUSB1:rwm
+
+    # Serial Port Mapping...
+      - /dev/ttyS1:/dev/ttyS1
+      - /dev/ttyS2:/dev/ttyS2

@@ -1,0 +1,41 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.7.0 - built Dec  5 2017 09:25:01
+Copyright (C) 1999-2016 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11905000, The X.Org Foundation
+
+
+Mon May 27 07:50:41 2019
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5911
+ vncext:      created VNC server for screen 0
+
+Mon May 27 07:53:03 2019
+ Connections: accepted: 127.0.0.1::44770
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Mon May 27 07:53:28 2019
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Mon May 27 08:04:01 2019
+ Connections: closed: 127.0.0.1::44770 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 569
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 22 rects, 9.15919 Mpixels
+ EncodeManager:             352 B (1:104082 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 1.58 krects, 33.9246 Mpixels
+ EncodeManager:            24.6875 KiB (1:5368.57 ratio)
+ EncodeManager:     Bitmap RLE: 400 rects, 356.406 kpixels
+ EncodeManager:                 14.6484 KiB (1:95.3616 ratio)
+ EncodeManager:     Indexed RLE: 3.353 krects, 15.5891 Mpixels
+ EncodeManager:                  1.03393 MiB (1:57.5535 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 426 rects, 4.29201 Mpixels
+ EncodeManager:                  1.37696 MiB (1:11.894 ratio)
+ EncodeManager:   Total: 5.781 krects, 63.3213 Mpixels
+ EncodeManager:          2.44964 MiB (1:98.6341 ratio)
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.

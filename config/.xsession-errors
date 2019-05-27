@@ -1,0 +1,909 @@
+Xsession: X session started for user at Mon May 27 07:13:14 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9837): WARNING **: 07:13:15.141: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:13:15.141: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:13:15.143: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:13:15.144: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:13:15.145: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:13:30 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:13:30.735: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:13:30.736: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:13:30.738: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:13:30.739: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:13:30.740: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:13:46 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:13:46.645: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:13:46.646: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:13:46.649: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:13:46.649: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:13:46.651: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:14:02 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:14:02.582: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:14:02.582: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:14:02.585: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:14:02.586: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:14:02.587: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:14:18 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:14:18.689: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:14:18.689: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:14:18.690: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:14:18.690: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:14:18.691: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:14:34 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9852): WARNING **: 07:14:34.756: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:14:34.757: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:14:34.758: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:14:34.758: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:14:34.760: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:14:50 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9853): WARNING **: 07:14:50.624: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:14:50.624: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:14:50.627: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:14:50.628: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:14:50.629: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:15:06 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:15:06.381: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:15:06.382: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:15:06.382: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:15:06.383: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:15:06.385: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:15:22 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:15:22.389: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:15:22.390: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:15:22.392: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:15:22.393: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:15:22.395: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:16:20 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9853): WARNING **: 07:16:21.436: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:16:21.437: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:16:21.438: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:16:21.439: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:16:21.441: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:16:35 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:16:35.388: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:16:35.388: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:16:35.390: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:16:35.390: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:16:35.391: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:16:49 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:16:49.749: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:16:49.749: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:16:49.753: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:16:49.754: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:16:49.755: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:17:03 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:17:04.095: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:17:04.096: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:17:04.099: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:17:04.099: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:17:04.101: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:17:18 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:17:18.245: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:17:18.246: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:17:18.249: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:17:18.249: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:17:18.251: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:17:32 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9840): WARNING **: 07:17:32.477: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:17:32.478: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:17:32.479: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:17:32.479: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:17:32.481: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:17:46 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:17:46.687: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:17:46.688: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:17:46.691: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:17:46.691: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:17:46.692: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:18:00 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:18:00.948: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:18:00.948: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:18:00.952: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:18:00.952: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:18:00.953: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:18:14 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:18:15.109: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:18:15.110: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:18:15.112: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:18:15.113: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:18:15.114: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:18:29 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:18:29.449: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:18:29.450: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:18:29.451: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:18:29.451: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:18:29.453: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busX connection to :11 broken (explicit kill or server shutdown).
+Xsession: X session started for user at Mon May 27 07:18:42 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:18:42.941: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:18:42.943: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:18:42.947: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:18:42.948: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:18:42.950: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:18:57 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:18:57.208: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:18:57.208: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:18:57.209: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:18:57.209: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:18:57.210: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:19:11 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:19:11.297: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:19:11.298: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:19:11.300: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:19:11.301: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:19:11.302: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:19:25 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:19:25.458: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:19:25.458: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:19:25.461: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:19:25.462: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:19:25.463: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:19:39 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:19:39.778: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:19:39.779: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:19:39.780: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:19:39.780: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:19:39.782: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:19:53 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:19:53.793: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:19:53.793: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:19:53.796: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:19:53.796: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:19:53.798: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:20:08 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:20:08.856: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:20:08.864: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:20:08.886: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:20:08.895: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:20:08.917: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:20:34 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9852): WARNING **: 07:20:34.738: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:20:34.738: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:20:34.742: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:20:34.743: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:20:34.744: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session bus# Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Failed to execute child process “dbus-launch” (No such file or directory)
+# Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Failed to execute child process “dbus-launch” (No such file or directory)
+# Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Failed to execute child process “dbus-launch” (No such file or directory)
+# Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Failed to execute child process “dbus-launch” (No such file or directory)
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 22688 requests (22688 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:22:20 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9840): WARNING **: 07:22:20.516: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:22:20.517: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:22:20.519: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:22:20.520: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:22:20.521: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session bus# Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Failed to execute child process “dbus-launch” (No such file or directory)
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 5605 requests (5605 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:30:36 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 07:30:36.674: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:30:36.674: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:30:36.677: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:30:36.678: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:30:36.679: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:30:50 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:30:50.773: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:30:50.773: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:30:50.776: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:30:50.777: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:30:50.778: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:31:04 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:31:05.104: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:31:05.104: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:31:05.105: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:31:05.106: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:31:05.108: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:31:19 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 07:31:19.190: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:31:19.191: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:31:19.194: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:31:19.195: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:31:19.197: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:31:33 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:31:33.353: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:31:33.353: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:31:33.356: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:31:33.357: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:31:33.358: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:31:47 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 07:31:47.593: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:31:47.594: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:31:47.596: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:31:47.597: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:31:47.598: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:32:03 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9846): WARNING **: 07:32:05.419: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:32:05.419: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:32:05.421: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:32:05.421: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:32:05.423: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 07:32:29 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 07:32:30.338: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:32:30.339: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:32:30.340: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:32:30.341: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:32:30.342: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXsession: X session started for user at Mon May 27 07:40:01 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9837): WARNING **: 07:40:01.222: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:40:01.223: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:40:01.224: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:40:01.224: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:40:01.226: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXsession: X session started for user at Mon May 27 07:50:41 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 07:50:42.412: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 07:50:42.413: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 07:50:42.415: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 07:50:42.416: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 07:50:42.418: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 119218 requests (119218 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:04:53 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 08:04:53.728: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:04:53.728: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:04:53.731: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:04:53.732: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:04:53.734: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 14032 requests (14032 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:07:47 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:07:47.758: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:07:47.759: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:07:47.762: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:07:47.763: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:07:47.765: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 2377 requests (2377 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:08:07 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:08:07.205: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:08:07.205: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:08:07.206: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:08:07.207: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:08:07.208: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:08:26 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:08:26.614: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:08:26.615: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:08:26.618: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:08:26.619: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:08:26.620: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:08:46 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:08:46.243: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:08:46.244: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:08:46.247: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:08:46.247: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:08:46.249: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:09:05 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:09:05.594: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:09:05.595: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:09:05.596: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:09:05.596: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:09:05.598: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:09:24 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:09:24.812: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:09:24.812: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:09:24.813: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:09:24.814: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:09:24.815: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:09:44 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:09:44.219: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:09:44.219: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:09:44.223: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:09:44.223: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:09:44.225: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:10:03 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:10:03.743: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:10:03.743: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:10:03.746: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:10:03.746: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:10:03.748: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:10:22 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:10:23.046: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:10:23.046: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:10:23.049: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:10:23.050: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:10:23.052: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:10:42 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:10:42.454: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:10:42.454: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:10:42.455: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:10:42.455: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:10:42.456: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:11:02 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:11:02.114: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:11:02.115: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:11:02.116: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:11:02.116: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:11:02.118: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:11:21 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:11:21.578: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:11:21.578: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:11:21.582: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:11:21.582: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:11:21.583: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:11:40 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:11:41.081: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:11:41.081: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:11:41.084: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:11:41.085: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:11:41.087: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:12:00 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:12:00.940: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:12:00.940: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:12:00.944: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:12:00.945: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:12:00.947: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:12:20 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:12:20.205: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:12:20.205: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:12:20.206: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:12:20.207: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:12:20.208: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:12:40 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:12:40.386: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:12:40.387: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:12:40.389: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:12:40.390: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:12:40.391: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:12:59 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9839): WARNING **: 08:13:00.017: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:13:00.017: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:13:00.020: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:13:00.021: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:13:00.023: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:13:21 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:13:21.707: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:13:21.709: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:13:21.714: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:13:21.715: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:13:21.717: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:13:52 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9837): WARNING **: 08:13:52.327: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:13:52.327: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:13:52.330: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:13:52.330: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:13:52.332: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:14:11 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:14:11.766: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:14:11.766: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:14:11.767: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:14:11.768: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:14:11.769: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 10 (No child processes) on X server ":11"
+      after 1787 requests (1784 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:14:34 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9838): WARNING **: 08:14:34.981: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:14:34.982: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:14:34.983: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:14:34.984: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:14:34.985: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":11"
+      after 1989 requests (1989 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:14:57 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9837): WARNING **: 08:14:57.815: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:14:57.816: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:14:57.817: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:14:57.817: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:14:57.819: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 7423 requests (7423 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:27:09 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 08:27:09.987: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:27:09.987: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:27:09.989: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:27:09.990: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:27:09.991: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 16497 requests (16497 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:32:24 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9836): WARNING **: 08:32:24.877: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:32:24.878: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:32:24.880: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:32:24.880: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:32:24.882: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 47119 requests (47119 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:39:13 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9837): WARNING **: 08:39:13.994: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:39:13.995: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:39:13.997: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:39:13.998: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:39:13.999: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session busXIO:  fatal IO error 4 (Interrupted system call) on X server ":11"
+      after 6782 requests (6782 known processed) with 0 events remaining.
+Xsession: X session started for user at Mon May 27 08:50:29 UTC 2019
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+localuser:user being added to access control list
+dbus-update-activation-environment: error: unable to connect to D-Bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+
+** (process:9876): WARNING **: 08:50:29.694: xdg-autostart.vala:125: Error: Error opening directory ?/home/user/.config/autostart?: No such file or directory
+
+** Message: 08:50:29.695: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 08:50:29.698: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 08:50:29.699: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 08:50:29.700: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+Failed to launch bus: Failed to connect to session bus

@@ -1,0 +1,53 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.7.0 - built Dec  5 2017 09:25:01
+Copyright (C) 1999-2016 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11905000, The X.Org Foundation
+
+
+Mon May 27 08:39:13 2019
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5911
+ vncext:      created VNC server for screen 0
+
+Mon May 27 08:44:29 2019
+ Connections: accepted: 127.0.0.1::45458
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Mon May 27 08:44:32 2019
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Mon May 27 08:45:40 2019
+ Connections: closed: 127.0.0.1::45458 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 154
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 75 rects, 5.99978 Mpixels
+ EncodeManager:             1.17188 KiB (1:20000 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 216 rects, 7.72317 Mpixels
+ EncodeManager:            3.375 KiB (1:8939.6 ratio)
+ EncodeManager:     Bitmap RLE: 186 rects, 421.778 kpixels
+ EncodeManager:                 18.6924 KiB (1:88.2579 ratio)
+ EncodeManager:     Indexed RLE: 266 rects, 492.41 kpixels
+ EncodeManager:                  38.9707 KiB (1:49.437 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 35 rects, 332.199 kpixels
+ EncodeManager:                  112.252 KiB (1:11.5638 ratio)
+ EncodeManager:   Total: 778 rects, 14.9693 Mpixels
+ EncodeManager:          174.462 KiB (1:335.22 ratio)
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+
+Xvnc TigerVNC 1.7.0 - built Dec  5 2017 09:25:01
+Copyright (C) 1999-2016 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11905000, The X.Org Foundation
+
+
+Mon May 27 08:50:29 2019
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5911
+ vncext:      created VNC server for screen 0
